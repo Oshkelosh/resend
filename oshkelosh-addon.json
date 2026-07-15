@@ -1,0 +1,9 @@
+{
+  "addon_id": "resend",
+  "addon_name": "Resend",
+  "addon_description": "Send transactional emails via Resend.",
+  "category": "notification",
+  "version": "1.0.0",
+  "min_oshkelosh_version": "0.1.0",
+  "python_requires": ">=3.11"
+}
